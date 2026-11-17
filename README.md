@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/rushikesh-bobade/LeetCommit/main/icons/128.png" width="80" height="80" alt="LeetCommit Logo" style="border-radius: 20%;" />
+  <img src="https://raw.githubusercontent.com/LeetCommit/LeetCommit/main/icons/128.png" width="80" height="80" alt="LeetCommit Logo" style="border-radius: 20%;" />
   <h2>LeetCode Solutions</h2>
   <p>Automated with <a href="https://chromewebstore.google.com/detail/lfichjfhhjffkefegggfocoaamejdlpm"><strong>LeetCommit</strong></a> &bull; Synchronized directly to GitHub</p>
   <p>
-    <img src="https://img.shields.io/badge/Total%20Solved-6-brightgreen?style=flat-square&logo=leetcode" alt="Total Solved" />
+    <img src="https://img.shields.io/badge/Total%20Solved-8-brightgreen?style=flat-square&logo=leetcode" alt="Total Solved" />
     <img src="https://img.shields.io/badge/Streak-1%20Days-orange?style=flat-square&logo=flame" alt="Streak" />
-    <img src="https://img.shields.io/badge/Easy-4-60B5A6?style=flat-square" alt="Easy" />
-    <img src="https://img.shields.io/badge/Medium-1-FFB800?style=flat-square" alt="Medium" />
+    <img src="https://img.shields.io/badge/Easy-5-60B5A6?style=flat-square" alt="Easy" />
+    <img src="https://img.shields.io/badge/Medium-2-FFB800?style=flat-square" alt="Medium" />
     <img src="https://img.shields.io/badge/Hard-1-FF2D55?style=flat-square" alt="Hard" />
   </p>
 </div>
@@ -17,9 +17,9 @@
 
 | Metric | Count |
 | :--- | :--- |
-| **Total Solved** | 6 |
-| **🟢 Easy** | 4 |
-| **🟡 Medium** | 1 |
+| **Total Solved** | 8 |
+| **🟢 Easy** | 5 |
+| **🟡 Medium** | 2 |
 | **🔴 Hard** | 1 |
 | **🔥 Current Streak** | 1 days |
 | **🕒 Last Synced** | 11/17/2026 |
@@ -28,7 +28,7 @@
 
 | Language | Solutions |
 | :--- | :--- |
-| **Java** | 2 |
+| **Java** | 4 |
 | **TypeScript** | 2 |
 | **C++** | 1 |
 | **Python** | 1 |
