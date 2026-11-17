@@ -13,7 +13,7 @@ You can return the answer in any order.
  
 
 Original
-TypeScript
+Python3
 **Example 1:**
 
 **Input:** `nums = [2,7,11,15], target = 9`
@@ -59,27 +59,23 @@ The sum of `nums[0]` and `nums[1]` is `3 + 3 = 6`, which equals the target. Ther
 
 ## Solution
 
-**Language:** TypeScript  
-**Runtime:** 1 ms (beats 91.52%)  
-**Memory:** 61.8 MB (beats 6.46%)  
-**Submitted:** 2026-11-17T10:23:14.359Z  
+**Language:** Python  
+**Runtime:** 0 ms (beats 100.00%)  
+**Memory:** 20.4 MB (beats 50.01%)  
+**Submitted:** 2026-11-17T10:23:50.192Z  
 
-```ts
-function twoSum(nums: number[], target: number): number[] {
-    const seen = new Map<number, number>();
+```py
+class Solution:
+    def twoSum(self, nums: List[int], target: int) -> List[int]:
+        seen = {}
 
-    for (let i = 0; i < nums.length; i++) {
-        const complement = target - nums[i];
+        for i, num in enumerate(nums):
+            complement = target - num
 
-        if (seen.has(complement)) {
-            return [seen.get(complement)!, i];
-        }
+            if complement in seen:
+                return [seen[complement], i]
 
-        seen.set(nums[i], i);
-    }
-
-    return [];
-}
+            seen[num] = i
 ```
 
 ---
