@@ -3,9 +3,9 @@
   <h2>LeetCode Solutions</h2>
   <p>Automated with <a href="https://chromewebstore.google.com/detail/lfichjfhhjffkefegggfocoaamejdlpm"><strong>LeetCommit</strong></a> &bull; Synchronized directly to GitHub</p>
   <p>
-    <img src="https://img.shields.io/badge/Total%20Solved-13-brightgreen?style=flat-square&logo=leetcode" alt="Total Solved" />
+    <img src="https://img.shields.io/badge/Total%20Solved-14-brightgreen?style=flat-square&logo=leetcode" alt="Total Solved" />
     <img src="https://img.shields.io/badge/Streak-1%20Days-orange?style=flat-square&logo=flame" alt="Streak" />
-    <img src="https://img.shields.io/badge/Easy-5-60B5A6?style=flat-square" alt="Easy" />
+    <img src="https://img.shields.io/badge/Easy-6-60B5A6?style=flat-square" alt="Easy" />
     <img src="https://img.shields.io/badge/Medium-5-FFB800?style=flat-square" alt="Medium" />
     <img src="https://img.shields.io/badge/Hard-3-FF2D55?style=flat-square" alt="Hard" />
   </p>
@@ -17,8 +17,8 @@
 
 | Metric | Count |
 | :--- | :--- |
-| **Total Solved** | 13 |
-| **🟢 Easy** | 5 |
+| **Total Solved** | 14 |
+| **🟢 Easy** | 6 |
 | **🟡 Medium** | 5 |
 | **🔴 Hard** | 3 |
 | **🔥 Current Streak** | 1 days |
@@ -28,7 +28,7 @@
 
 | Language | Solutions |
 | :--- | :--- |
-| **Java** | 8 |
+| **Java** | 9 |
 | **TypeScript** | 2 |
 | **C++** | 1 |
 | **Kotlin** | 1 |
